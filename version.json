@@ -1,0 +1,10 @@
+{
+  "version": "1.2.0",
+  "releaseDate": "2026-07-07",
+  "apk": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest/download/app-release.apk",
+  "releaseNotes": [
+    "Improved performance",
+    "Fixed login issues",
+    "Added order enhancements"
+  ]
+}
