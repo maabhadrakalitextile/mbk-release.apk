@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const data = await response.json();
             
             // Update Download URL - prefer JSON apk url if exists, otherwise fallback to CONFIG
-            const downloadUrl = data.apk || CONFIG.apkUrl;
+            const downloadUrl = data.apk || data.download_url || CONFIG.apkUrl;
             document.getElementById('hero-download-btn').href = downloadUrl;
             document.getElementById('section-download-btn').href = downloadUrl;
 

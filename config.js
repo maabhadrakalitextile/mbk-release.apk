@@ -1,4 +1,4 @@
 const CONFIG = {
-    apkUrl: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest/download/app-release.apk",
+    apkUrl: "https://maabhadrakalitextile.github.io/mbk-release.apk/index.html",
     versionJson: "version.json"
 };
