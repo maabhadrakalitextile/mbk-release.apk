@@ -1,8 +1,8 @@
 {
   "latest_version": "1.0.0+1",
-  "download_url": "https://maabhadrakalitextile.github.io/mbk-release.apk/index.html",
+  "download_url": "https://maabhadrakalitextile.github.io/mbk-release.apk/app-release.apk",
   "release_notes": "Mandatory update check integrated at app launch.",
   "version": "1.0.0",
-  "apk": "https://maabhadrakalitextile.github.io/mbk-release.apk/index.html",
+  "apk": "https://maabhadrakalitextile.github.io/mbk-release.apk/app-release.apk",
   "releaseDate": "2026-07-08"
 }
